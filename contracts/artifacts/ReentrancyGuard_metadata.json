@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/AthlPresale.sol": "ReentrancyGuard"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/AthlPresale.sol": {
+			"keccak256": "0x7db16fcdd7f339b0f99a1f476027b5be044e7ec805ea757738ec320dd745208c",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://065edfe901896f9e6be0f5e88e2b58d604f551bad3e8e308820864379445e7b2",
+				"dweb:/ipfs/QmRmdjbVSvwtMjbc4xBdAAAwZxvxHGXNBYaoSX3N1dANnj"
+			]
+		}
+	},
+	"version": 1
+}
